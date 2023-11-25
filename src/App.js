@@ -8,12 +8,14 @@ function App() {
       <div className="ok">
         <h1>litcoder</h1>
         <br />
+     <a href="https://litcoder.in/login">
         <button
           className="loginbtn"
           style={{ padding: "1rem 2rem", borderRadius: "1rem" }}
         >
-          <a href="https://litcoder.in/login">Log in</a>
+         Log in
         </button>
+           </a>
       </div>
       <h1 className="mask">MASK MAN</h1>
     </div>
